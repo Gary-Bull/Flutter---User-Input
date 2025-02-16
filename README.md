@@ -2,7 +2,7 @@
 
 A very simple Flutter app, that asks the user to enter their name, and then tap on a button. The user's input would then be displayed. 
 
-## How it was made
+## How it works
 
 The `main.dart` file uses the `ToDoPage()` widget for home: 
 
